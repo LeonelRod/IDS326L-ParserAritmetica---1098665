@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0l977MR4OcSBcFlZ6P4DBHrNeyJD1HMNPhJcv2Wja4BhL5KxvrlO1GlylzoEenSb12x2ggqLMNzRXVIRsfrjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEONEL\\Documents\\1A INTEC\\Trimestre Noviembre-Enero 2022\\IDS326\\LABS\\backup - ParserAritmetica\\IDS326L-ParserAritmetica---1098665\\IDS326L-ParseadorAritmetica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEONEL\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
